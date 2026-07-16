@@ -1,4 +1,4 @@
-<img width="896" height="395" alt="563482590-478c35ba-0c24-4419-be98-1f1ab065d89a" src="https://github.com/user-attachments/assets/dc294dbd-946d-4a38-927b-2ac9cf5ca298" /># Ex.No:2(D) VARIABLE SCOPE AND CONSTRUCTOR
+# Ex.No:2(D) VARIABLE SCOPE AND CONSTRUCTOR
 
 ## QUESTION:
 Write a class that uses a constructor to initialize variables and overrides toString() method.
